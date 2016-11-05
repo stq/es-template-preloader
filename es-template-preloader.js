@@ -1,8 +1,9 @@
-var estemplate = require('estemplate');
-
 module.exports = function(source){
 
-    this.query
+    var query = (this.query || "").replace(/^?/, '');;
+
+
+    
 
     this.callback(null, result);
 };
