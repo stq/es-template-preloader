@@ -1,6 +1,6 @@
 module.exports = function(source){
 
-    var query = (this.query || "").replace(/^?/, '');;
+    var query = (this.query || "").replace(/^?/, '');
 
 
     
