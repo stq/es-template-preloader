@@ -1,7 +1,7 @@
 {
   "name": "es-template-preloader",
   "version": "0.0.0",
-  "description": "A webpack loader which can replace templates in es code with actual code..",
+  "description": "A webpack loader which can replace code templates in es code with actual code.",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -11,11 +11,13 @@
     "url": "https://github.com/stq/estemplate-loader.git"
   },
   "keywords": [
-    "esprima",
-    "estemplate",
     "webpack",
     "webpack-loader",
-    "loader"
+    "loader",
+    "compilation",
+    "es",
+    "js",
+    "template"
   ],
   "author": "Viktor Kachan <setec.by@gmail.com> (https://github.com/stq)",
   "license": "MIT",
