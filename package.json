@@ -1,0 +1,26 @@
+{
+  "name": "estemplate-loader",
+  "version": "0.0.0",
+  "description": "A webpack loader which can transform estemplate-based templates into javascript source code during compilation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stq/estemplate-loader.git"
+  },
+  "keywords": [
+    "esprima",
+    "estemplate",
+    "webpack",
+    "webpack-loader",
+    "loader"
+  ],
+  "author": "Viktor Kachan <setec.by@gmail.com> (https://github.com/stq)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stq/estemplate-loader/issues"
+  },
+  "homepage": "https://github.com/stq/estemplate-loader"
+}
