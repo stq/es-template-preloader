@@ -1,1 +1,1 @@
-module.exports = () => "I'm so lazy!"
+module.exports = () => "I'm so lazy!";
