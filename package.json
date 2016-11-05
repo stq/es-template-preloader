@@ -1,7 +1,7 @@
 {
-  "name": "estemplate-loader",
+  "name": "es-template-preloader",
   "version": "0.0.0",
-  "description": "A webpack loader which can transform estemplate-based templates into javascript source code during compilation.",
+  "description": "A webpack loader which can replace templates in es code with actual code..",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/stq/estemplate-loader",
   "devDependencies": {
-    "estemplate": "^0.5.1",
     "webpack": "^1.13.3"
   }
 }

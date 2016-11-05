@@ -1,2 +1,3 @@
-# estemplate-loader
-A webpack loader which can transform estemplate-based templates into javascript source code during compilation.
+# es-template-loader
+
+A webpack loader which can replace templates in es code with actual code.
