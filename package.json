@@ -4,7 +4,7 @@
   "description": "A webpack loader which can replace code templates in es code with actual code.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "webpack --config test/webpack.config.js"
   },
   "repository": {
     "type": "git",
